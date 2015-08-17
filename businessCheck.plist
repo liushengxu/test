@@ -13,11 +13,11 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liushengxu/test/master/icon.jpg</string>
+					<string>https://raw.githubusercontent.com/liushengxu/test/master/icon.png</string>
 				</dict>
 				<dict>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/liushengxu/test/master/icon.jpg</string>
+					<string>https://raw.githubusercontent.com/liushengxu/test/master/icon.png</string>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
